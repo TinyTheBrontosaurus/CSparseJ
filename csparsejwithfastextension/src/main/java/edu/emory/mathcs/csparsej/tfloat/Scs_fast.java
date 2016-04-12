@@ -29,7 +29,7 @@ package edu.emory.mathcs.csparsej.tfloat;
  */
 public class Scs_fast
 {
-    public class Nonzeros {
+    public static class Nonzeros {
         // Public access for inline speed only. When doing so, copy the 'quick' methods.
         public int[] mNonzeros;
         public int mNonzerosTrue = 1;

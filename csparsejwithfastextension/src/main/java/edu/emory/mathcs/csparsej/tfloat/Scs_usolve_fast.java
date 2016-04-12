@@ -42,7 +42,7 @@ public class Scs_usolve_fast
      *                 Any value in x that has mNonzeros=false can be anything, and will be assumed to be zero.
      * @return
      */
-    public boolean cs_usolve_fast(Scs_common.Scs U, float[] x, Scs_fast.Nonzeros nzs)
+    public static boolean cs_usolve_fast(Scs_common.Scs U, float[] x, Scs_fast.Nonzeros nzs)
     {
         int         p;
         int         j;
