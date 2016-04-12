@@ -2,7 +2,13 @@ CSparseJ: a Concise Sparse matrix Java package.
 Copyright (C) 2006-2011, Timothy A. Davis.
 Copyright (C) 2009, Piotr Wendykier.
 Copyright (C) 2011-2012, Richard Lincoln.
+
+Fast Extensions:
+Copyright (C) 2016, Eric Nelson.
+
 http://www.cise.ufl.edu/research/sparse/CSparse
+
+
 
 ------------------------------------------------------------------------------
 
